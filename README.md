@@ -1,13 +1,21 @@
 # Guatemala
-Con el objetivo de simplificar proceso nacionales.
 
-#### Carptea js
-Por el momento contiene archivos ```.js``` con las siguientes características.
+Principal objetivo es aportar información de Guatemala en formatos relacionados a la programación.
 
-1. Departamentos de Guatemala en formato ```json```, con sus códigos correspondientes por departamento dentro del archivo [departamentos.js](https://github.com/JuanPabloBC7/Guatemala)
-2. Municipios de Guatemala en formato ```json```, con sus códigos correspondientes por municipio dentro del archivo [municipios.js](https://github.com/JuanPabloBC7/Guatemala)
-3. Departamentos y Municipios de Guatemala en formato ```json```, con sus códigos correspondientes por departamento y municipio dentro del archivo [departamentosMunicipios.js](https://github.com/JuanPabloBC7/Guatemala)
-4. Municipios de Guatemala con latitud y longitud en formato ```json```, con sus códigos correspondientes por municipio dentro del archivo [municipiosLatitudLongitud.js](https://github.com/JuanPabloBC7/Guatemala)
+* [Departamentos](https://github.com/JuanPabloBC7/Guatemala/blob/main/js/departamentos.js) en formato ```Json```
+* [Departamentos y municipios](https://github.com/JuanPabloBC7/Guatemala/blob/main/js/departamentos-municipios.js) en formato ```Json```
+* [Municipios](https://github.com/JuanPabloBC7/Guatemala/blob/main/js/municipios.js) en formato ```Json```
+* [Municipios con latitud y longitud](https://github.com/JuanPabloBC7/Guatemala/blob/main/js/municipios-latitud-longitud.js) en formato ```Json```
 
-#
-###### [Generate Token](https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to)
+### Estructura de Archivos
+Dentro de la descarga encontrará los siguientes directorios y archivos:
+
+```
+Guatemala/
+├── js/
+│ ├── departamentos.js
+│ ├── departamentos-municipios.js
+│ ├── municipios.js
+│ ├── municipios-latitud-longitud.js
+├── README.md
+```
